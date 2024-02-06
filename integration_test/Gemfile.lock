@@ -45,7 +45,7 @@ GEM
     net-http-persistent (2.9.4)
     net-ping (2.0.1)
     netrc (0.11.0)
-    nokogiri (1.16.0)
+    nokogiri (1.16.2)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     ntlm-http (0.1.1)
